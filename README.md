@@ -64,6 +64,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 #### Syntactical annotation
 
 * [German Universal Dependency Treebank](https://github.com/UniversalDependencies/UD_German-GSD/tree/master)
+* [Hamburg Dependency Treebank](http://hdl.handle.net/11022/0000-0000-7FC7-2)
 * [ParZu](https://github.com/rsennrich/parzu)
 * [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml)
 
@@ -87,7 +88,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ## Speech NLP
 
-* []()
+* [Spoken Wikipedia Corpora](https://nats.gitlab.io/swc/)
 
 ## Machine Translation
 
